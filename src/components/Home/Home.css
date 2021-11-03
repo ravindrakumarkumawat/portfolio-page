@@ -24,6 +24,15 @@
   opacity: 0.60;
 }
 
+.round {
+  border-radius: 1rem;
+}
+
+.justify-center{
+  display: flex;
+  justify-content: center;
+}
+
 .bg-left, .bg-right {
   background-color: #fff;
   box-shadow: 0 6px 6px hsl(0deg 0% 0% / 0.3);
