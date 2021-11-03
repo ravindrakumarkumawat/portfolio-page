@@ -5,6 +5,8 @@ import NormalCol from "../common/NormalCol";
 import Avatar from "../../assets/images/avatar_hat.jpg";
 import Footer from "../Footer"
 import Personal from '../Personal'
+import Education from '../Educations'
+import WorkExperience from "../WorkExperience";
 
 const Home = () => {
   return (  
@@ -19,7 +21,8 @@ const Home = () => {
           </NormalCol>
           <NormalCol span={65}>
             <div className="bg-right">
-              <Personal />            
+              <WorkExperience />
+              <Education />            
             </div>
           </NormalCol>
         </NormalRow>
