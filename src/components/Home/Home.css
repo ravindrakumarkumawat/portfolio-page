@@ -1,0 +1,21 @@
+.bg-grey {
+  color: #000;
+  background-color: #f1f1f1;
+}
+
+.bg-green {
+  color: #fff;
+  background-color: #009688;
+}
+
+.grey {
+  color: #f1f1f1;
+}
+
+.green {
+  color: #009688;
+}
+
+.opacity {
+  opacity: 0.60;
+}

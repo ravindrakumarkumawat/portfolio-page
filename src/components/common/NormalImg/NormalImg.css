@@ -1,0 +1,28 @@
+.image-container {
+  width: 100%;
+}
+.responsive-img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+
+.grayscale-min {
+  filter: grayscale(50%);
+}
+
+.w-60 {
+  width:60% !important;
+}
+
+.band-margin-bottom {
+  margin-bottom: 16px!important;
+}
+
+.band-round {
+  border-radius: 4px;
+}
+
+.hover-opacity:hover {
+  opacity: 0.60;
+}
