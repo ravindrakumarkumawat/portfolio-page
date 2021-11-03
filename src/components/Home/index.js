@@ -21,8 +21,11 @@ const Home = () => {
           </NormalCol>
           <NormalCol span={65}>
             <div className="bg-right">
+              
+            <div className="m-2">
               <WorkExperience />
-              <Education />            
+              <Education />    
+              </div>        
             </div>
           </NormalCol>
         </NormalRow>

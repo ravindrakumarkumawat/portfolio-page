@@ -60,3 +60,7 @@ p {
 .margin-right {
   margin-right: .5rem;
 }
+
+.m-2 {
+  margin: 1rem;
+}
