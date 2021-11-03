@@ -32,9 +32,9 @@ const education = [
 
 const Educations = () => {
   return (
-    <div className="container card white">
-      <h2 className="text-grey padding-16">
-        <i className="fa fa-certificate fa-fw margin-right xxlarge text-teal"></i>
+    <div className="education-container">
+      <h2 className="">
+        <i className="fa fa-certificate fa-fw margin-right text-teal"></i>
         Education
       </h2>
       {

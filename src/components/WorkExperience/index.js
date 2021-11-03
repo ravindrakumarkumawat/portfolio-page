@@ -37,9 +37,9 @@ const experience = [
 ]
 const WorkExperience = () => {
   return (
-    <div className="container card white margin-bottom">
-      <h2 className="text-grey padding-16">
-        <i className="fa fa-suitcase fa-fw margin-right xxlarge text-teal"></i>
+    <div className="work-container">
+      <h2 className="">
+        <i className="fa fa-suitcase fa-fw margin-right text-teal"></i>
         Work Experience
       </h2>
       {
