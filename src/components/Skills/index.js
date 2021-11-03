@@ -7,7 +7,7 @@ const Skills = () => {
     <div className="skills-container p-2">
       <p className="">
         <b>
-          <i className="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>
+          <i className="fa fa-asterisk fa-fw margin-right text-teal"></i>
           Skills
         </b>
       </p>

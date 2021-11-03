@@ -12,9 +12,11 @@ const Personal = () => {
     <NormalRow>
       <NormalCol span={24}>
         <Avatar />
-        <PersonalDetails />
-        <Skills />
-        <SpeakLanguage />
+        <div className="m-2">
+          <PersonalDetails />
+          <Skills />
+          <SpeakLanguage />
+        </div>
       </NormalCol>
     </NormalRow>
   );

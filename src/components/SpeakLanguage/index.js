@@ -7,7 +7,7 @@ const SpeakLanguage = () => {
     <div className="skills-container p-2">
     <p className="large text-theme">
       <b>
-        <i className="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>
+        <i className="fa fa-globe fa-fw margin-right text-teal"></i>
         Languages
       </b>
     </p>
