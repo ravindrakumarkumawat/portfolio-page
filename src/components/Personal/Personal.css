@@ -1,0 +1,12 @@
+.container {
+  position: relative;
+  /* max-width: 800px;
+  margin: 0 auto; */
+}
+.overlay-text {
+  position: absolute;
+  bottom: 0;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+}

@@ -8,6 +8,10 @@
   background-color: #009688;
 }
 
+.bg-white {
+  background-color: #fff;
+}
+
 .grey {
   color: #f1f1f1;
 }
@@ -18,4 +22,11 @@
 
 .opacity {
   opacity: 0.60;
+}
+
+.bg-left, .bg-right {
+  background-color: #fff;
+  box-shadow: 0 6px 6px hsl(0deg 0% 0% / 0.3);
+
+  margin: 1rem 0;
 }
